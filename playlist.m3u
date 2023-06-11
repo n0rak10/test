@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3Plus.al" tvg-logo="https://i.imgur.com/0ZdW9As.png" group-title="Series",3 Plus
+https://mfe01.tring.al/delta/106/out/u/896_3.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-logo="https://i.imgur.com/TgO3Lzi.png" group-title="News",A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNewsAlbania.al" tvg-logo="https://i.imgur.com/q5pjJ2m.png" group-title="News",ABC News Albania
+https://mfe01.tring.al/delta/105/out/u/650_1.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="Music",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-logo="https://i.imgur.com/Pr4ixiA.png" group-title="General",Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.xk" tvg-logo="https://i.imgur.com/lX6sekx.png" group-title="",ATV
+https://ub1doy938d.gjirafa.net/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/zyq001.m3u8
+#EXTINF:-1 tvg-id="BubbleTV.al" tvg-logo="https://i.imgur.com/IgIykip.png" group-title="Kids",Bubble TV
+https://mfe01.tring.al/delta/106/out/u/1118_3.m3u8
+#EXTINF:-1 tvg-id="EuronewsAlbania.al" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="News",Euronews Albania
+https://ythls.onrender.com/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="News",Kanali 7
+https://mfe01.tring.al/delta/105/out/u/581_1.m3u8
+#EXTINF:-1 tvg-id="KlanKosova.xk" tvg-logo="https://i.imgur.com/pQjSsNQ.png" group-title="",Klan Kosova
+http://93.157.62.180/KlanKosova/index.m3u8
+#EXTINF:-1 tvg-id="Kohavision.xk" tvg-logo="https://i.imgur.com/LOi9yma.png" group-title="",Kohavision
+https://cdn.vpplayer.tech/agmipnzy/livestream/0E9A6FA7-4ED3-41B8-AAE2-46E7FFE72454/master_file.m3u8
+#EXTINF:-1 tvg-id="LivingHD.al" tvg-logo="https://i.imgur.com/pppl7yG.png" group-title="Lifestyle",Living HD
+https://mfe01.tring.al/delta/106/out/u/894_1.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv.al" tvg-logo="https://i.imgur.com/gtZLzxq.png" group-title="News",ntv
+https://protokolldns.xyz/ntv/livestream9956544786625444/index.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png" group-title="News",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="OraTV.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png" group-title="General",Ora TV
+https://live1.mediadesk.al/oratv.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png" group-title="News",Panorama TV
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="PeaceTVAlbanian.xk" tvg-logo="https://i.imgur.com/cK3KATX.png" group-title="Religious",Peace TV Albanian
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-logo="https://i.imgur.com/C9lM1KP.png" group-title="News",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RTK1.xk" tvg-logo="https://i.imgur.com/KTcWcO6.png" group-title="",RTK 1
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
+#EXTINF:-1 tvg-id="RTK2.xk" tvg-logo="https://i.imgur.com/g6k6xyO.png" group-title="",RTK 2
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
+#EXTINF:-1 tvg-id="RTK3.xk" tvg-logo="https://i.imgur.com/Ut9VcT3.png" group-title="",RTK 3
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzk.m3u8
+#EXTINF:-1 tvg-id="RTK4.xk" tvg-logo="https://i.imgur.com/Urm4XDR.png" group-title="",RTK 4
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8
+#EXTINF:-1 tvg-id="RTSH1.al" tvg-logo="https://i.imgur.com/Y8wotC4.png" group-title="General",RTSH 1
+https://mfe01.tring.al/delta/105/out/u/643_1.m3u8
+#EXTINF:-1 tvg-id="RTV21.xk" tvg-logo="https://i.imgur.com/AqQltGh.png" group-title="",RTV21
+https://ub1doy938d.gjirafa.net/live/6rgklscjRSjkIb3cFcFiyCmOrcQ7AWeB/zy1zzz.m3u8
+#EXTINF:-1 tvg-id="RTVBesa.xk" tvg-logo="https://i.imgur.com/Qi3mz4Q.png" group-title="General",RTV Besa
+https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/zztyzt.m3u8
+#EXTINF:-1 tvg-id="RTVDukagjini.xk" tvg-logo="https://i.imgur.com/Qi3mz4Q.png" group-title="General",RTV Dukagjini
+https://ub1doy938d.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/ygqkzt.m3u8
+#EXTINF:-1 tvg-id="Teve1.xk" tvg-logo="https://i.imgur.com/qjTZtNG.png" group-title="General",Teve1
+https://mfe01.tring.al/delta/105/out/u/694_1.m3u8
+#EXTINF:-1 tvg-id="TringClassic.al" tvg-logo="https://i.imgur.com/TsaxrnX.png" group-title="Movies",Tring Classic
+https://mfe01.tring.al/delta/106/out/u/1114_3.m3u8
+#EXTINF:-1 tvg-id="TringCollection.al" tvg-logo="https://i.imgur.com/04E1576.png" group-title="Movies",Tring Collection
+https://mfe01.tring.al/delta/106/out/u/1117_3.m3u8
+#EXTINF:-1 tvg-id="TringFantasy.al" tvg-logo="https://i.imgur.com/iwR2big.png" group-title="Movies",Tring Fantasy
+https://mfe01.tring.al/delta/106/out/u/1115_3.m3u8
+#EXTINF:-1 tvg-id="TringNovelas.al" tvg-logo="https://www.tring.al/wp-content/uploads/2021/09/novelas.png" group-title="Series",Tring Novelas
+https://mfe01.tring.al/delta/106/out/u/1126_3.m3u8
+#EXTINF:-1 tvg-id="TringSuper.al" tvg-logo="https://www.tring.al/wp-content/uploads/2018/12/super.png" group-title="Movies",Tring Super
+https://mfe01.tring.al/delta/106/out/u/890_1.m3u8
+#EXTINF:-1 tvg-id="TringTring.al" tvg-logo="https://i.imgur.com/VrXyMt5.png" group-title="Kids",Tring Tring
+https://mfe01.tring.al/delta/106/out/u/898_3.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Religious",TV 7 Albania
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="TVApollon.al" tvg-logo="https://i.imgur.com/gUz2AjM.png" group-title="General",TV Apollon
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+#EXTINF:-1 tvg-id="TVArberia1.xk" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="General",TV Arberia 1
+https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArberia3Femije.xk" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Kids",TV Arberia 3 Femije
+http://rtvarberia3.flashmediacast.com:1935/RtvArberia3/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArberia4Muzike.xk" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Music",TV Arberia 4 Muzike
+http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArta.xk" tvg-logo="https://i.imgur.com/MAhJkK9.png" group-title="News",TV Arta
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/yt1q1x.m3u8
+#EXTINF:-1 tvg-id="TVDielli.xk" tvg-logo="https://i.imgur.com/kLl3ar5.png" group-title="",TV Dielli
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 tvg-id="TVOpoja.xk" tvg-logo="https://i.imgur.com/hxi4Qiq.png" group-title="",TV Opoja
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPrizreni.xk" tvg-logo="https://i.imgur.com/hvtJwOO.png" group-title="",TV Prizreni
+https://ub1doy938d.gjirafa.net/live/dCynrjRK8sEsrYu0zDtDg8l4KaXbFpXl/zy1ztx.m3u8
+#EXTINF:-1 tvg-id="TVSyri.xk" tvg-logo="https://i.imgur.com/ZQuFosn.png" group-title="",TV Syri
+https://ub1doy938d.gjirafa.net/live/DpTlD159VIIRWtzFOvUI70nftnyosgUE/y10z1k.m3u8
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="General",Vizion Plus
+https://mfe01.tring.al/delta/105/out/u/618_13.m3u8
+#EXTINF:-1 tvg-id="ZeriTV.xk" tvg-logo="https://i.imgur.com/nx03blS.png" group-title="",Zeri TV
+https://ub1doy938d.gjirafa.net/live/dCynrjRK8sEsrYu0zDtDg8l4KaXbFpXl/zyqy1y.m3u8
+#EXTINF:-1 tvg-id="ZjarrTV.al" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="General",Zjarr TV
+https://mfe01.tring.al/delta/106/out/u/284_1.m3u8
